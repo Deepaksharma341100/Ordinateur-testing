@@ -12,11 +12,8 @@
       {
         "name": "Netresh Singh",
         "role": "President",
-<<<<<<< HEAD
         "image": "team/netresh.jpg",
-=======
-        "image": "team/president.jpeg",
->>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
+
         "description": "Netresh is a lazy yet dedicated individual who believes that this very world might be an excellent computer application. He believes in supremacy of  VS code and also secretly wants HTML to be a programming language",
         "points": [
           "Netresh dreams of a universe coded in JavaScript, where every bug leads to an alternate reality.",
@@ -26,13 +23,10 @@
       {
         "name": "Harshit Rawat",
         "role": "Vice President",
-<<<<<<< HEAD
+
         "image": "team/harshit.jpg",
         "description": "Harshit is someone who found himself in a coding degree despite a love-hate relationship with programming. Always eager to tackle new challenges, he's proof that you don't need to love code to master it!",
-=======
-        "image": "team/vp.jpeg",
-        "description": "Harshit is just another individual who unexpectedly ended up in a coding degree, despite his ongoing love-hate relationship with programming. While algorithms might not always spark joy, he would be the first to dive into new challenges and explore anything from tech trends to unexpected adventures. He's a proof that you don't need to love code to conquer it!",
->>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
+
         "points": [
           "Harshit is the kind of person who'd debug life itself if it threw an error, even if coding isn't his first love.",
           "Despite his coding detours, Harshit is always game to solve problems, whether it's in code or chaos."
@@ -41,11 +35,9 @@
       {
         "name": "Yashasvi",
         "role": "General Secretary",
-<<<<<<< HEAD
+
         "image": "./team/yashasvi.jpg",
-=======
-        "image": "team/vp.jpeg",
->>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
+
         "description": "Yashasvi is a dedicated individual with a passion for coding and a strong interest in AI. Her commitment to her goals drives her to constantly learn and grow in the tech field. Outside of her pursuits, she brings a fun-loving spirit to everything she does!",
         "points": [
           "Yashasvi sees every bug as a stepping stone to mastering the art of AI innovation.",
@@ -55,13 +47,9 @@
       {
         "name": "Shivangi",
         "role": "Treasurer",
-<<<<<<< HEAD
         "image": "./team/shivangi.jpg",
         "description": "Shivangi blends fun with professionalism, taking risks while balancing food and code. A jack of all trades, from filmmaking to consulting, she’s the department’s Charisma, inspiring the team to work late without looking sleep-deprived!",
-=======
-        "image": "team/vp.jpeg",
-        "description": "Shivangi is a perfect mix of fun and professionalism, often taking risks at the expense of internal tests. Her priorities? Simple—eat, and code while eating. A jack of all trades, she dabbles in everything from filmmaking to consulting. As the department's Charisma, she’s on a mission to inspire everyone in Ordinateur to work all night and still somehow not look sleep-deprived!",
->>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
+
         "points": [
           "Shivangi codes with a snack in one hand and a dream in the other, balancing fun and finesse effortlessly.",
           "From crafting scripts to debugging code, Shivangi turns every challenge into a charismatic masterpiece."
@@ -82,7 +70,6 @@
         "name": "Code Wars",
         "date": "2021-10-10",
         "description": "Code Wars is our annual coding competition where students from all over the galaxy come together to test their skills and compete for glory and prizes. The competition consists of a series of coding challenges that test your knowledge of algorithms, data structures, and problem-solving skills. Whether you're a beginner or an expert, Code Wars has something for everyone. So grab your lightsaber and join us for an epic battle of wits and code!",
-<<<<<<< HEAD
         "images": [
           "/content/events/first.jpg",
           "/content/events/second.jpg",
@@ -94,15 +81,7 @@
         "date": "2021-11-11",
         "description": "Our annual hackathon is a 24-hour coding marathon where students work in teams to build innovative projects and solve real-world problems. Whether you're a seasoned hacker or a first-time coder, our hackathon has something for everyone. So grab your laptop and join us for an unforgettable experience of coding, collaboration, and creativity!",
         "images": []
-=======
-        "images": ["events/codewars1.jpeg", "events/codewars.jpeg"]
-      },
-      {
-        "name": "Hackathon",
-        "date": "2021-11-11",
-        "description": "Our annual hackathon is a 24-hour coding marathon where students work in teams to build innovative projects and solve real-world problems. Whether you're a seasoned hacker or a first-time coder, our hackathon has something for everyone. So grab your laptop and join us for an unforgettable experience of coding, collaboration, and creativity!",
-        "images": ["events/hackathon1.jpeg", "events/hackathon2.jpeg"]
->>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
+
       }
     ]
   },
