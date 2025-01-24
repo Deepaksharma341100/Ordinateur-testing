@@ -30,7 +30,11 @@ export default function Header({
   return (
     <>
       <header className="fixed left-1/2 top-8 z-[999] w-full max-w-view -translate-x-1/2 px-4">
+<<<<<<< HEAD
         <div className="relative z-0 mx-auto bg-black-dark">
+=======
+        <div className="relative z-0 mx-auto">
+>>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
           <motion.div
             className={twMerge(
               `absolute left-0 top-0 -z-10 size-full origin-left`,

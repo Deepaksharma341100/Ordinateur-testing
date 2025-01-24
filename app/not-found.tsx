@@ -20,9 +20,21 @@ export default async function _404(): Promise<ReactNode> {
     <div className="size-full bg-black-medium">
       <Header navLinks={navLinks} />
       <div className="mx-auto flex min-h-screen max-w-view flex-col items-center justify-center gap-2 bg-gpt-darker p-8 text-white">
+<<<<<<< HEAD
         <h2 className="font-mono text-heading text-gray-400">
           The Computer Science Department Hansraj College
         </h2>
+=======
+        <h1 className="font-mono text-lg text-red">404</h1>
+        <h2 className="font-mono text-heading text-gray-400">Page Not Found</h2>
+        <Image
+          src="/404.gif"
+          alt="John Travolta confused"
+          width={400}
+          height={400}
+          className="rounded-lg"
+        />
+>>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
       </div>
       {content && <Footer content={content} />}
     </div>

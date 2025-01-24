@@ -56,8 +56,13 @@ export default function TeamCarousel({
           <Image
             src={`content/${currentMember.image}`}
             alt={currentMember.name}
+<<<<<<< HEAD
             width={200}
             height={200}
+=======
+            width={100}
+            height={100}
+>>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
           />
         </div>
       </Window>

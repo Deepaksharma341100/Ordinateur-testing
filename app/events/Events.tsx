@@ -25,10 +25,14 @@ export default function Events({ content }: { content: Content }): ReactNode {
   return (
     <>
       <Header navLinks={navLinks} />
+<<<<<<< HEAD
       <div
         className="mx-auto mt-12 max-w-[640px] px-4 py-12"
         style={{ marginTop: "5em" }}
       >
+=======
+      <div className="mx-auto mt-12 max-w-[640px] px-4 py-12">
+>>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
         <div className="space-y-6">
           {content.sections.events.map((entry, index) => (
             <TimelineEntry key={index} entry={entry} />
@@ -54,10 +58,17 @@ function ImageCarousel({ images }: { images: string[] }): ReactNode {
   };
 
   return (
+<<<<<<< HEAD
     <div className="sm:h-auto md:h-64 lg:h-80 sm:w-auto relative h-72 w-full">
       <Image
         width={100}
         height={150}
+=======
+    <div className="md:h-64 lg:h-80 relative h-48 w-full">
+      <Image
+        height={100}
+        width={150}
+>>>>>>> 5c11e6450381a69ababf60ea28de69d239857873
         src={images[currentIndex]}
         alt={`Image ${currentIndex + 1}`}
         className="h-full w-full rounded-lg object-cover"
