@@ -1,5 +1,5 @@
 import { type ReactNode } from "react";
-import Image from "next/image";
+//import Image from "next/image";
 
 // Internal dependencies
 import { getContent } from "@/utils/getContent";
